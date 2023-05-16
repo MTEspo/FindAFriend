@@ -1,4 +1,4 @@
-# FindAFriend
+# Find-A-Friend
 -This was my first website made as a project for a class I took on web development. 
 -The link is https://users.encs.concordia.ca/~ma_espo/FindAFriend1/
 -Users can create an account or login if they already have one, then they can browse the different cats or dogs that the 
